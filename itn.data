@@ -2,4 +2,4 @@ classes= 10
 train  = /itn/itn_train.unix
 valid  = /itn/itn_val.unix
 names  = /itn/itn.names
-backup = "/content/gdrive/My Drive/backup"
+backup = /content/gdrive/My\ Drive/backup
