@@ -1,5 +1,5 @@
 classes= 10
-train  = /content/itn/itn_train.unix
-valid  = /content/itn/itn_val.unix
-names  = /content/itn/itn.names
-backup = /content/backup
+train  = /itn/itn_train.unix
+valid  = /itn/itn_val.unix
+names  = /itn/itn.names
+backup = /itn/backup
